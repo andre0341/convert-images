@@ -26,11 +26,13 @@ This is a Python application with a graphical user interface (GUI) built using `
    cd image-converter
 
 ## Install dependencies:
-pip install pillow pillow_heif
+  ```bash
+  pip install pillow pillow_heif
 
 ## Usage
-bash
-python convert_img_files_OK.py
+  ```bash
+  python convert_img_files_OK.py
+
 Use the "Select Directory" button to choose a folder containing image files.
 Select images from the listbox and click "Convert to JPG".
 Monitor the progress bar and view conversion status.
