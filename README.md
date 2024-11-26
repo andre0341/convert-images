@@ -23,7 +23,7 @@ This is a Python application with a graphical user interface (GUI) built using `
 1. Clone the repository:
    ```bash
    git clone https://github.com/andre0341/image-converter.git
-   cd image-converter
+cd image-converter
 
 ## Install dependencies:
    ```bash
