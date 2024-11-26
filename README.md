@@ -26,11 +26,11 @@ This is a Python application with a graphical user interface (GUI) built using `
    cd image-converter
 
 ## Install dependencies:
-  ```bash
+   ```bash
   pip install pillow pillow_heif
 
 ## Usage
-  ```bash
+   ```bash
   python convert_img_files_OK.py
 
 Use the "Select Directory" button to choose a folder containing image files.
