@@ -21,17 +21,18 @@ This is a Python application with a graphical user interface (GUI) built using `
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/andre0341/image-converter.git
+    ```bash
+    git clone https://github.com/andre0341/image-converter.git
 cd image-converter
 
 ## Install dependencies:
-  ```bash
-  pip install pillow pillow_heif
+    ```bash
+    pip install pillow pillow_heif
 
 ## Usage
-   ```bash
-  python convert_img_files_OK.py
+    ```bash
+    python convert_img_files_OK.py
+
 
 Use the "Select Directory" button to choose a folder containing image files.
 Select images from the listbox and click "Convert to JPG".
