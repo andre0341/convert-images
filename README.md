@@ -1,12 +1,12 @@
 # Short Description (TLDR) Convert Images
 This project is a Python-based GUI tool for converting image files, including HEIC, to JPG format. It provides an intuitive interface for directory selection, image preview, and batch conversion.
 
-[Overview](#overview)
-[Features](#features)
-[Prerequisites](#prerequisites)
-[Installation](#installation)
-[Dependencies](#dependencies)
-[Usage](#usage)
+[Overview](#overview) <br>
+[Features](#features) <br>
+[Prerequisites](#prerequisites) <br>
+[Installation](#installation) <br>
+[Dependencies](#dependencies) <br>
+[Usage](#usage) <br>
 
 # Image Converter - Convert HEIC, JPG, PNG, WEBP to JPG, PNG, 
 ## Overview
