@@ -26,7 +26,7 @@ This is a Python application with a graphical user interface (GUI) built using `
 cd image-converter
 
 ## Install dependencies:
-   ```bash
+  ```bash
   pip install pillow pillow_heif
 
 ## Usage
