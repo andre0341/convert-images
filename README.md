@@ -5,7 +5,7 @@ This project is a Python-based GUI tool for converting image files, including HE
 [Features](#features) <br>
 [Prerequisites](#prerequisites) <br>
 [Installation](#installation) <br>
-[Dependencies](#dependencies) <br>
+[Dependencies](#Install-dependencies) <br>
 [Usage](#usage) <br>
 
 # Image Converter - Convert HEIC, JPG, PNG, WEBP to JPG, PNG, 
@@ -62,7 +62,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 ** andre0341 **
 
-- Github: [@kishanrajput23](https://github.com/andre0341)
+- Github: [@andre0341](https://github.com/andre0341)
 
 ## 📌Show your support
 
