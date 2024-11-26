@@ -24,3 +24,23 @@ This is a Python application with a graphical user interface (GUI) built using `
    ```bash
    git clone https://github.com/andre0341/image-converter.git
    cd image-converter
+
+## Install dependencies:
+pip install pillow pillow_heif
+
+## Usage
+bash
+python convert_img_files_OK.py
+Use the "Select Directory" button to choose a folder containing image files.
+Select images from the listbox and click "Convert to JPG".
+Monitor the progress bar and view conversion status.
+
+# Development Notes
+UI Design: The application uses tkinter for GUI elements, ensuring a lightweight and responsive interface.
+HEIC Support: Added via pillow_heif for decoding HEIC files.
+Error Management: Handles missing files, unsupported formats, and general conversion errors gracefully.
+
+# Contributing
+Feel free to submit issues or feature requests. Contributions are welcome!
+
+
